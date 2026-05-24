@@ -1,5 +1,5 @@
 ---
-description: kainatın nizamlı olması ilə bağlı məqalə
+description: kainatın nizamlı olması ilə bağlı
 ---
 
 # Nizamlı kainatın zəruriliyi
