@@ -1,5 +1,5 @@
 ---
-description: mütləq həqiqət ilə bağlı məqalə
+description: mütləq həqiqət ilə bağlı
 ---
 
 # Mütləq həqiqət varmı
