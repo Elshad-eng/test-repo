@@ -1,5 +1,5 @@
 ---
-description: mütləq həqiqət ilə bağlı
+description: mütləq həqiqətin olmaması ilə bağlı
 ---
 
 # Mütləq həqiqət varmı
